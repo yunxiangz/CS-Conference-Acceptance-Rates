@@ -1,8 +1,8 @@
-The acceptance rates of top computer science conferences
+The acceptance rates of top computer science conferences 
 
 ===== 
 
-### Architecture
+### Architecture, Super Computing, Storage
 
 | Conference        | Long Paper           | Short Paper  |
 | ------------- | :------------- | :----- |
@@ -40,24 +40,84 @@ The acceptance rates of top computer science conferences
 |COLING'20| 33.4% (622/1862) | - |
 |COLING'22| 33.4% (522/1563) | 24.2% (112/463) |  
 
-### Computer Vision and Pattern Recognition
 
-| Conference        | Long Paper           | Short Paper  |
-| ------------- |:-------------|:-----|
-|CVPR'14 | 29.9% (540/1807) (104 orals and 436 posters) | - |
-|CVPR'15 | 28.3% (602/2123) (71 orals and 531 posters) | - |
-|CVPR'16 | 29.9% (643/2145) (83 orals, 123 spotlights and 437 posters) | - |
-|CVPR'17 | 29.9% (783/2620) (71 orals, 144 spotlights and 568 posters) | - |
-|CVPR'18 | 29.6% (979/3303) (70 orals, 224 spotlights and 685 posters) | - |
-|CVPR'19 | 25.0% (1294/5160) (288 short orals and 1294 posters)| - |
-|CVPR'20 | 22.1% (1470/6656) | - |
-|CVPR'21 | 23.7% (1661/7015) (295 orals and 1366 posters) | - |
-|CVPR'22 | 25.3% (2067/8161) | - |
-|ICCV'13 | 27.9% (454/1629) (41 orals and 413 posters) | - |
-|ICCV'15 | 30.9% (525/1698) | - |
-|ICCV'17 | 29.0% (621/2143) (45 orals, 56 spotlights and 520 posters) | - |
-|ICCV'19 | 25.0% (1077/4304) (187 short orals and 1077 posters)| - |
-|ECCV'14 | 27.9% (363/1444) (38 orals and 325 posters) | - |
-|ECCV'16 | 26.6% (415/1561) (28 orals, 45 spotlights and 342 posters) | - |
-|ECCV'18 | 31.8% (776/2439) (59 orals and 717 posters) | - |
-|ECCV'20 | 27.1% (1361/5025) (104 orals, 161 spotlights and 1096 posters) | - |
+### Architecture, Super Computing, Storage
+SC
+MICRO
+HPCA
+PPoPP
+FAST
+ASPLOS
+DAC
+ISCA
+USENIX ATC
+
+
+### Machine Learning, Computer Vision, Natural Language Processing
+ACL
+IJCAI
+ICML
+NeurIPS
+AAAI
+ICLR
+CVPR
+ICCV
+
+
+### Networking, Communication
+MobiCom
+NSDI
+INFOCOM
+SIGCOMM
+
+
+### Security, Block Chain
+CRYPTO
+CCS
+EUROCRYPT
+S&P
+USENIX Security
+
+
+### Software, Test
+ISSTA
+PLDI
+OSDI
+ICSE
+POPL
+ASE
+OOPSLA
+SOSP
+FSE/ESEC
+
+
+### Database, Data Mining
+ICDE
+SIGIR
+SIGMOD
+SIGKDD
+
+
+### Web
+RTSS
+WWW
+
+
+### Theory
+FOSC
+SODA
+STOC
+LICS
+CAV
+
+
+### Graphic
+VR
+SIGGRAPH
+IEEE VIS
+ACM MM
+
+
+### Human Computer Interaction
+CHI
+CSCW
