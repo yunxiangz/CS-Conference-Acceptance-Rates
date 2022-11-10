@@ -42,6 +42,11 @@ The acceptance rates of top computer science conferences
 
 
 ### Architecture, Super Computing, Storage
+
+| Conference        | Long Paper           | Short Paper  |
+| ------------- | :------------- | :----- |
+|SC'10 | 26.2% (146/572) | - |
+|SC'11 | 26.2% (146/572) | - |
 SC
 MICRO
 HPCA
