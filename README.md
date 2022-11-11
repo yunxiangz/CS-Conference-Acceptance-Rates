@@ -51,8 +51,26 @@ The acceptance rates of top computer science conferences
 |PPoPP'20 | 23% (28/121) |
 |PPoPP'21 | 21% (31/150) |
 |||
-FAST
-ASPLOS
+|FAST'18 | 16.5% (23/139) |
+|FAST'19 | 17.9% (26/145) |
+|FAST'20 | 16.7% (23/138) |
+|FAST'21 | 21.5% (28/130) |
+|FAST'22 | 21.5% (28/130) |
+|||
+|ASPLOS'10 | 25.7% (29/113) |
+|ASPLOS'11 | 17.7% (32/181) |
+|ASPLOS'12 | 21.1% (32/152) |
+|ASPLOS'13 | 21.5% (37/172) |
+|ASPLOS'14 | 22.6% (49/217) |
+|ASPLOS'15 | 16.7% (48/287) |
+|ASPLOS'16 | 22.8% (53/232) |
+|ASPLOS'17 | 18.1% (58/320) |
+|ASPLOS'18 | 17.6% (56/319) |
+|ASPLOS'19 | 21.1% (74/351) |
+|ASPLOS'20 | 17.7% (86/486) |
+|ASPLOS'21 | 18.8% (75/398) |
+|ASPLOS'22 | 20.2% (80/397) |
+|||
 DAC
 ISCA
 USENIX ATC
