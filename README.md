@@ -88,17 +88,17 @@ The acceptance rates of top computer science conferences
 |ISCA'20 | 18.0% (77/428) |
 |ISCA'21 | 18.7% (76/407) |
 |||
-|USENIX ATC'12 | 18% (76/407) |
-|USENIX ATC'13 | 18% (76/407) |
-|USENIX ATC'14 | 18% (76/407) |
-|USENIX ATC'15 | 18% (76/407) |
-|USENIX ATC'16 | 18% (76/407) |
-|USENIX ATC'17 | 18% (76/407) |
-|USENIX ATC'18 | 18% (76/407) |
-|USENIX ATC'19 | 18% (76/407) |
-|USENIX ATC'20 | 18% (76/407) |
-|USENIX ATC'21 | 18% (76/407) |
-|USENIX ATC'22 | 18% (76/407) |
+|USENIX ATC'12 | 17.8% (41/230) |
+|USENIX ATC'13 | 14.2% (33/233) |
+|USENIX ATC'14 | 14.9% (36/241) |
+|USENIX ATC'15 | 15.8% (35/221) |
+|USENIX ATC'16 | 19.0% (47/248) |
+|USENIX ATC'17 | 21.2% (60/283) |
+|USENIX ATC'18 | 20.1% (76/378) |
+|USENIX ATC'19 | 19.9% (71/356) |
+|USENIX ATC'20 | 18.7% (65/348) |
+|USENIX ATC'21 | 18.8% (64/341) |
+|USENIX ATC'22 | 16.3% (64/393) |
 
 
 
