@@ -1,4 +1,4 @@
-The acceptance rates of top computer science conferences 
+The acceptance rates of top computer science conferences (CCF A)
 
 ===== 
 
@@ -104,15 +104,77 @@ The acceptance rates of top computer science conferences
 ### Machine Learning, Computer Vision, Natural Language Processing
 | Conference        | Long Paper           | Short Paper  |
 | ------------- | :------------- | :----- |
-|ACL'10 | xxx% (xx/2xx53) | xxx |
-ACL
-IJCAI
-ICML
-NeurIPS
-AAAI
-ICLR
-CVPR
-ICCV
+|ACL'14 | 26.2% (146/572) | 26.1% (139/551) |
+|ACL'15 | 25.0% (173/692) | 22.4% (145/648) |
+|ACL'16 | 28.0% (231/825) | 21.0% (97/463) |
+|ACL'17 | 25.0% (195/751) | 18.9% (107/567) |
+|ACL'18 | 25.3% (258/1018) | 24.0% (126/526) |
+|ACL'19 | 25.7% (447/1737) | 18.2% (213/1168) |
+|ACL'20 | 25.4% (571/2244) | 17.6% (208/1185) |
+|ACL'21 | 24.5% (571/2327) | 13.6% (139/1023) |
+|ACL'21 Findings | 14.6% (339/2327) | 11.5% (118/1023) |
+|||
+|CVPR'14 | 29.9% (540/1807) (104 orals and 436 posters) | - |
+|CVPR'15 | 28.3% (602/2123) (71 orals and 531 posters) | - |
+|CVPR'16 | 29.9% (643/2145) (83 orals, 123 spotlights and 437 posters) | - |
+|CVPR'17 | 29.9% (783/2620) (71 orals, 144 spotlights and 568 posters) | - |
+|CVPR'18 | 29.6% (979/3303) (70 orals, 224 spotlights and 685 posters) | - |
+|CVPR'19 | 25.0% (1294/5160) (288 short orals and 1294 posters)| - |
+|CVPR'20 | 22.1% (1470/6656) | - |
+|CVPR'21 | 23.7% (1661/7015) (295 orals and 1366 posters) | - |
+|CVPR'22 | 25.3% (2067/8161) | - |
+|||
+|ICCV'13 | 27.9% (454/1629) (41 orals and 413 posters) | - |
+|ICCV'15 | 30.9% (525/1698) | - |
+|ICCV'17 | 29.0% (621/2143) (45 orals, 56 spotlights and 520 posters) | - |
+|ICCV'19 | 25.0% (1077/4304) (187 short orals and 1077 posters)| - |
+|||
+|ICML'14 | 15.0% (Cycle I), 22.0% (Cycle II) | - |
+|ICML'15 | 26.0% (270/1037) | - |
+|ICML'16 | 24.0% (322/?) | - |
+|ICML'17 | 25.9% (434/1676) | - |
+|ICML'18 | 25.1% (621/2473) | - |
+|ICML'19 | 22.6% (773/3424) | - |
+|ICML'20 | 21.8% (1088/4990) | - |
+|ICML'21 | 21.5% (1184/5513) (166 long talks, 1018 short talks) | - |
+|ICML'22 | 21.9% (1235/5630) (118 long talks, 1117 short talks) | - |
+|||
+|NeurIPS'14 | 24.7% (414/1678) | - |
+|NeurIPS'15 | 21.9% (403/1838) | - |
+|NeurIPS'16 | 23.6% (569/2403) | - |
+|NeurIPS'17 | 20.9% (678/3240) (40 orals, 112 spotlights and 526 posters) | - |
+|NeurIPS'18 | 20.8% (1011/4856) (30 orals, 168 spotlights and 813 posters) | - |
+|NeurIPS'19| 21.1% (1428/6743) (36 orals, 164 spotlights and 1228 posters) | - |
+|NeurIPS'20| 20.1% (1900/9454) (105 orals, 280 spotlights and 1515 posters) | - |
+|NeurIPS'21| 25.7% (2344/9122) (55 orals, 260 spotlights and 2029 posters) | - |
+|NeurIPS'22| 25.6% (?/10411) (? orals, ? spotlights and ? posters) | - |
+|||
+|ICLR'17 | 39.1% (198/507) (15 orals and 183 posters) | - |
+|ICLR'18 | 32.0% (314/981) (23 orals and 291 posters) | - |
+|ICLR'19| 31.4% (500/1591) (24 orals and 476 posters) | - |
+|ICLR'20| 26.5% (687/2594) (48 orals, 107 spotlights and 532 posters) | - |
+|ICLR'21| 28.7% (860/2997) (53 orals, 114 spotlights and 693 posters) | - |
+|ICLR'22| 32.9% (1095/3328) (54 orals, 176 spotlights and 865 posters) | - |
+|||
+|AAAI'14 | 28.0% (398/1406) | - |
+|AAAI'15 | 26.7% (531/1991) | - |
+|AAAI'16 | 25.8% (549/2132) | - |
+|AAAI'17 | 24.6% (638/2590) | - |
+|AAAI'18 | 24.6% (933/3800) | - |
+|AAAI'19 | 16.2% (1150/7095) | - |
+|AAAI'20 | 20.6% (1591/7737) | - |
+|AAAI'21 | 21.4% (1692/7911) | - |
+|AAAI'22 | 15.0% (1349/9020) | - |
+|||
+|IJCAI'13 | 28.0% (413/1473) | - |
+|IJCAI'15 | 28.6% (572/1996) | - |
+|IJCAI'16 | 24.0% (551/2294) | - |
+|IJCAI'17 | 26.0% (660/2540) | - |
+|IJCAI'18 | 20.5% (710/3470) | - |
+|IJCAI'19 | 17.9% (850/4752) | - |
+|IJCAI'20 | 12.6% (592/4717) | - |
+|IJCAI'21 | 13.9% (587/4204) | - |
+|IJCAI'22 | 14.9% (679/4535) | - |
 
 
 ### Networking, Communication
