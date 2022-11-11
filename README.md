@@ -71,9 +71,35 @@ The acceptance rates of top computer science conferences
 |ASPLOS'21 | 18.8% (75/398) |
 |ASPLOS'22 | 20.2% (80/397) |
 |||
-DAC
-ISCA
-USENIX ATC
+|DAC'18 | 24.3% (168/691) |
+|DAC'19 | 18.9% (202/1068) |
+|DAC'20 | 23.2% (228/984) |
+|DAC'21 | 23% (214/926) |
+|||
+|ISCA'10 | 18.0% (44/245) |
+|ISCA'11 | 18.8% (39/208) |
+|ISCA'12 | 17.6% (46/262) |
+|ISCA'13 | 19.1% (55/288) |
+|ISCA'15 | 18.7% (57/305) |
+|ISCA'16 | 18.8% (54/288) |
+|ISCA'17 | 16.8% (54/322) |
+|ISCA'18 | 16.7% (63/378) |
+|ISCA'19 | 17.0% (62/365) |
+|ISCA'20 | 18.0% (77/428) |
+|ISCA'21 | 18.7% (76/407) |
+|||
+|USENIX ATC'12 | 18% (76/407) |
+|USENIX ATC'13 | 18% (76/407) |
+|USENIX ATC'14 | 18% (76/407) |
+|USENIX ATC'15 | 18% (76/407) |
+|USENIX ATC'16 | 18% (76/407) |
+|USENIX ATC'17 | 18% (76/407) |
+|USENIX ATC'18 | 18% (76/407) |
+|USENIX ATC'19 | 18% (76/407) |
+|USENIX ATC'20 | 18% (76/407) |
+|USENIX ATC'21 | 18% (76/407) |
+|USENIX ATC'22 | 18% (76/407) |
+
 
 
 ### Machine Learning, Computer Vision, Natural Language Processing
