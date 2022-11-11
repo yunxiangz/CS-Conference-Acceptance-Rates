@@ -4,11 +4,10 @@ The acceptance rates of top computer science conferences
 
 
 ### Architecture, Super Computing, Storage
-
-| Conference        | Long Paper           | Short Paper  |
-| ------------- | :------------- | :----- |
+| Conference        | Long Paper           |
+| ------------- | :------------- |
 |SC'10 | 20.2% (51/253) |
-|SC'11 | 21% (74/332) |
+|SC'11 | 21.0% (74/332) |
 |SC'12 | 21.7% (100/461) |
 |SC'13 | 20.3% (91/449) |
 |SC'14 | 21.1% (83/394) |
@@ -23,7 +22,7 @@ The acceptance rates of top computer science conferences
 |||
 |MICRO'17 | 18.7% (61/327) |
 |MICRO'18 | 21.4% (74/351) |
-|MICRO'19 | 23% (79/344) |
+|MICRO'19 | 23.0% (79/344) |
 |MICRO'20 | 18.4% (82/446) |
 |MICRO'21 | 21.9% (94/430) |
 |||
@@ -103,6 +102,9 @@ The acceptance rates of top computer science conferences
 
 
 ### Machine Learning, Computer Vision, Natural Language Processing
+| Conference        | Long Paper           | Short Paper  |
+| ------------- | :------------- | :----- |
+|SC'10 | 20.2% (51/253) |
 ACL
 IJCAI
 ICML
