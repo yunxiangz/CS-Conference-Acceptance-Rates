@@ -104,7 +104,7 @@ The acceptance rates of top computer science conferences
 ### Machine Learning, Computer Vision, Natural Language Processing
 | Conference        | Long Paper           | Short Paper  |
 | ------------- | :------------- | :----- |
-|SC'10 | 20.2% (51/253) |
+|ACL'10 | xxx% (xx/2xx53) | xxx |
 ACL
 IJCAI
 ICML
