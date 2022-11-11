@@ -20,7 +20,7 @@ The acceptance rates of top computer science conferences
 |SC'20 | 25.1% (95/378) |
 |SC'21 | 25.9% (98/379) |
 |SC'22 | xx% (xx/xxx) |
-
+|||
 |MICRO'17 | 18.7% (61/327) |
 |MICRO'18 | 21.4% (74/351) |
 |MICRO'19 | 23% (79/344) |
