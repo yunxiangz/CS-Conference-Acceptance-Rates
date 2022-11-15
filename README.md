@@ -178,10 +178,54 @@ The acceptance rates of top computer science conferences (CCF A)
 
 
 ### Networking, Communication
-MobiCom
-NSDI
-INFOCOM
-SIGCOMM
+| Conference        | Long Paper           |
+| ------------- | :------------- |
+|MobiCom'11 | 13.6% (29/214) |
+|MobiCom'12 | 15.1% (32/212) |
+|MobiCom'13 | 13.5% (28/207) |
+|MobiCom'14 | 16.4% (36/220) |
+|MobiCom'15 | 18.4% (38/207) |
+|MobiCom'16 | 13.7% (31/226) |
+|MobiCom'17 | 18.8% (35/186) |
+|MobiCom'18 | 16.9% (30/178) |
+|MobiCom'19 | 17.7% (33/186) |
+|MobiCom'20 | 16.1% (62/384) |
+|MobiCom'21 | 19.9% (59/297) |
+|||
+|NSDI'16 | 19.7% (45/228) |
+|NSDI'17 | 18.2% (46/253) |
+|NSDI'18 | 15.9% (40/252) |
+|NSDI'19 | 14.8% (49/332) |
+|NSDI'20 | 18.4% (65/254) |
+|NSDI'21 | 16.0% (59/369) |
+|NSDI'22 | 16.8% (50/298) |
+|||
+|INFOCOM'10 | 17.5% (276/1575) |
+|INFOCOM'11 | 16.0% (291/1832) |
+|INFOCOM'12 | 18.0% (278/1547) |
+|INFOCOM'13 | 17.4% (280/1613) |
+|INFOCOM'14 | 19.5% (320/1645) |
+|INFOCOM'15 | 19.3% (316/1640) |
+|INFOCOM'16 | 18.2% (300/1644) |
+|INFOCOM'17 | 28.2% (393/1395) |
+|INFOCOM'18 | 19.2% (309/1606) |
+|INFOCOM'19 | 19.7% (288/1464) |
+|INFOCOM'20 | 19.1% (267/1397) |
+|INFOCOM'21 | 19.9% (252/1266) |
+|INFOCOM'22 | 19.8% (224/1129) |
+|||
+|SIGCOMM'10 | 12% (33/276) |
+|SIGCOMM'11 | 14.3% (32/223) |
+|SIGCOMM'12 | 13.2% (31/235) |
+|SIGCOMM'13 | 15.4% (38/246) |
+|SIGCOMM'14 | 18.6% (45/242) |
+|SIGCOMM'15 | 16.5% (40/242) |
+|SIGCOMM'16 | 16.9% (39/231) |
+|SIGCOMM'17 | 14.4% (36/250) |
+|SIGCOMM'18 | 18.2% (40/220) |
+|SIGCOMM'19 | 14.5% (32/221) |
+|SIGCOMM'20 | 21.6% (54/250) |
+|SIGCOMM'21 | 22.4% (55/246) |
 
 
 ### Security, Block Chain
